@@ -1,5 +1,5 @@
 # Linear-Algebra-Based-Python-3D-Graphics-Renderer
-Project for Linear Algebra based from https://www.youtube.com/@CoderSpaceChannel
+First Year CS Project for the course of Linear Algebra based from https://www.youtube.com/@CoderSpaceChannel
 
 Added more features that demonstrate linear transformations through keybinds.
 
